@@ -1,0 +1,11 @@
+cd "Flask_Deployed_App"
+
+// python -m venv my_venv
+
+my_venv\Scripts\activate
+
+//python version : 3.11.0
+
+//pip install -r requirements.txt
+
+python app.py
